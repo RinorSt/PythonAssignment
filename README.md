@@ -21,7 +21,18 @@ Sample data saved to data/gradebook.json
 
 Check gradebook.json with all the added data
 __________________________________________________________
+How to run tests:
+__________________________________________________________
+python -m unittest tests.test_service
 
+Output:
+
+
+Ran 4 tests in 0.001s
+
+OK
+
+___________________________________________________________
 Here are the commands we can use and the expected outputs:
 __________________________________________________________
 Add a student:
