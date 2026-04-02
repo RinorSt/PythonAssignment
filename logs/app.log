@@ -1,1 +1,44 @@
 2026-04-02 16:41:14,668 - INFO - Added student: Alice (ID: 1)
+2026-04-02 17:58:54,890 - INFO - Added student: Someone (ID: 1)
+2026-04-02 18:00:44,187 - INFO - Added course: CS101
+2026-04-02 18:00:44,277 - INFO - Added course: CS101
+2026-04-02 18:01:51,261 - ERROR - Validation error: Student ID not found
+2026-04-02 18:07:32,411 - INFO - Added student: Ali (ID: 1)
+2026-04-02 18:07:32,502 - INFO - Added course: CS101
+2026-04-02 18:07:32,648 - ERROR - Validation error: Student ID not found
+2026-04-02 18:07:32,751 - ERROR - Validation error: Enrollment not found
+2026-04-02 18:10:56,918 - INFO - Data file not found. Starting with empty data.
+2026-04-02 18:10:56,932 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:10:56,932 - INFO - Added student: Alice (ID: 1)
+2026-04-02 18:11:01,948 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:11:01,966 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:11:01,966 - INFO - Added course: CS101
+2026-04-02 18:11:11,535 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:11:11,548 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:11:11,548 - INFO - Enrolled student 1 in course CS101
+2026-04-02 18:11:23,393 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:11:23,409 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:11:23,409 - INFO - Added grade 95.0 for student 1 in CS101
+2026-04-02 18:11:30,844 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:11:43,584 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:12:00,079 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:13:34,618 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:13:34,631 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:13:34,631 - INFO - Added student: Alice (ID: 2)
+2026-04-02 18:14:26,145 - INFO - Data file not found. Starting with empty data.
+2026-04-02 18:14:26,157 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:14:26,157 - INFO - Added student: Someone (ID: 1)
+2026-04-02 18:14:44,768 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:14:44,782 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:14:44,782 - INFO - Added course: CS101
+2026-04-02 18:14:58,591 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:14:58,604 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:14:58,604 - INFO - Enrolled student 1 in course CS101
+2026-04-02 18:15:21,259 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:15:21,273 - INFO - Data saved successfully to data/gradebook.json
+2026-04-02 18:15:21,273 - INFO - Added grade 95.0 for student 1 in CS101
+2026-04-02 18:16:11,819 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:17:27,151 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:18:36,879 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:19:25,322 - INFO - Data loaded successfully from data/gradebook.json
+2026-04-02 18:23:18,351 - INFO - Data loaded successfully from data/gradebook.json
